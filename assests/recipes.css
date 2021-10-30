@@ -1,0 +1,62 @@
+html {
+    background-color: #ebf5ff;
+}
+
+#nav {
+    background-color: #519ce7;
+    /*font-family: 'Duru Sans', sans-serif; 
+    color: #333;
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 198px 10px 10px;
+    font-size: 18pt; */
+}
+
+.navitem:hover {
+    cursor: pointer;
+}
+
+.navitem:active {
+    color: #F9EEB3;
+}
+
+
+#designate {
+   /* font-family: 'Duru Sans', sans-serif;
+    color: #333;
+    font-size: 8pt;
+    padding: 0px 20px 0px 20px; */
+}
+
+ul {
+    list-style-type: circle;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    text-align: left;
+    columns: 2;
+    list-style-position: inside;
+}
+
+a {
+    color: #333;
+    text-decoration: none; /* no underline */
+  }
+
+/* .area {
+
+    color: #333;
+    font-size: 16pt;
+    text-align: center;
+     padding-top: 30px; */
+}
+
+
+
+.recipe {
+    color: #333;
+    font-size: 12pt;
+    
+    padding-top: 4px; 
+}
